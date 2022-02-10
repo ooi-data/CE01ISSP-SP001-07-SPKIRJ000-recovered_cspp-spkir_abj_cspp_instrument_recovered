@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE01ISSP-SP001-07-SPKIRJ000-recovered_cspp-spkir_abj_cspp_instrument_recovered
 data_stream: CE01ISSP-SP001-07-SPKIRJ000-recovered_cspp-spkir_abj_cspp_instrument_recovered
 end_date: '2021-07-11T08:04:02.840Z'
-last_updated: '2022-01-22T04:33:04.445465'
+last_updated: '2022-02-10T05:58:48.982146Z'
 start_date: '2014-04-17T22:28:16.174Z'
-status: success
+status: pending
